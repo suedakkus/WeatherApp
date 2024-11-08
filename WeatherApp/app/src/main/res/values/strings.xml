@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="temperature">Temperature</string>
+    <string name="description">Description</string>
+    <string name="text">TEXT</string>
+</resources>
